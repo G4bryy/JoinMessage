@@ -1,0 +1,4 @@
+join:
+  message: "&a%player% è entrato!"
+left:
+  message: "&c%player% è uscito"

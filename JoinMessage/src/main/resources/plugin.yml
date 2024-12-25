@@ -1,0 +1,4 @@
+name: JoinMessage
+version: '1.0'
+main: me.g4bryy.joinMessage.JoinMessage
+api-version: '1.20'
